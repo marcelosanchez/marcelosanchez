@@ -4,14 +4,14 @@
 I'm a software engineer who is passionate about making technology to help people and improve process. Some technologies I enjoy working with include ReactJS, Django, JavaScript and Python. I'm from Guayaquil Ecuador.
 
 ## Find me around the web:
-<h1>
+<a href="https://marcelosanchez.github.io/ms-portfolio/">
+  <img src="https://raw.githubusercontent.com/marcelosanchez/marcelosanchez/main/media/website_badget.png" height="27.99"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/marcelos14/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://marcelosanchez.github.io/ms-portfolio/">
-  🌎
-</a>&nbsp;&nbsp;
-</h1>
+
 
 ## Some of my skills:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
