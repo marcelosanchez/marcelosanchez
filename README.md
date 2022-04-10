@@ -24,3 +24,7 @@ I'm a software engineer who is passionate about making technology to help people
 ## My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosanchez&count_private=true&show_icons=true?theme=gotham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosanchez&layout=compact)](https://github.com/marcelosanchez/github-readme-stats) 
 
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/marcelosanchez/marcelosanchez"></a> 
+  <a href="#"><img src="https://badges.pufler.dev/repos/marcelosanchez"></a> 
+</p>
