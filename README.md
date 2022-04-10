@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/marcelosanchez/marcelosanchez/main/banner_github.png" width="auto">
-I'm a software engineer who is passionate about making technology to help people and improve process. Some technologies I enjoy working with include Django, ReactJS, JavaScript and Python. I'm from Guayaquil Ecuador.
+I'm a software engineer who is passionate about making technology to help people and improve process. Some technologies I enjoy working with include ReactJS, Django, JavaScript and Python. I'm from Guayaquil Ecuador.
 
 ## Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/marcelos14/">
